@@ -1,3 +1,5 @@
+![Photo by Tengyart on Unsplash](https://user-images.githubusercontent.com/2342458/202706389-501decaf-810e-4876-a749-7b9e593e67b1.png)
+
 # Kinsta - Hello World - Java
 An example of how to set your Java application up to enable deployment on Kinsta App Hosting services.
 
